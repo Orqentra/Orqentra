@@ -9,7 +9,7 @@ experimentation.
 
 [![Discord](https://img.shields.io/badge/Discord-Connect-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5Yfnk6HrgJ)
 [![Email](https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orqentrahq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Agniv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agniv)
+[![GitHub](https://img.shields.io/badge/GitHub-Agniv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Orqentra)
 
 </div>
 
@@ -141,7 +141,7 @@ If you have an idea or want to collaborate, feel free to contact me.
 
 [![Discord](https://img.shields.io/badge/Discord-Join%20me-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/5Yfnk6HrgJ)
 [![Email](https://img.shields.io/badge/Email-orqentrahq%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:orqentrahq@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-Agniv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/Agniv)
+[![GitHub](https://img.shields.io/badge/GitHub-Agniv-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/orqentra)
 
 </div>
 
