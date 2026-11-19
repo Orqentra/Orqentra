@@ -39,7 +39,6 @@ real-world experience.
 - **Outside coding:** I also enjoy UI/UX, branding, graphic design,
   video editing, and exploring new creative ideas.
 
-> Build. Learn. Improve. Repeat.
 
 ## Tech Stack
 
